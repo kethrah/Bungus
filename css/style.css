@@ -6,6 +6,7 @@ h1
 body {
     font-family:courier, serif;
     background-image: url("../img/wallpaper.png");
+    background-size: cover;
 }
 
 marquee {

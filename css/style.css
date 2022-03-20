@@ -18,6 +18,14 @@ marquee {
     color: yellow;
 }
 
+#top {
+    align-items: center;
+}
+
+.bits {
+    display: inline;
+}
+
 /* Example ID Style */
 #idName {
     /* Code here */

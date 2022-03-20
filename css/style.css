@@ -39,9 +39,13 @@ marquee {
     display: block; /* Displays the list items side-by-side */
     color: #efefef; /* Sets font color */
     text-align: center; /* Aligns text to center of box */
-    padding: 14px 16px; /* Sets padding around text */
+    padding: 14px; /* Sets padding around text */
     text-decoration: none; /* Disables inherited text decorations */
     font-size: 130%;
+}
+
+#navbar li a:hover {
+    background-color: #111;
 }
 
 /* Example ID Style */

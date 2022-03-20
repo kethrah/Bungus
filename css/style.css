@@ -8,6 +8,12 @@ body {
     background-image: url("../img/wallpaper.png");
 }
 
+marquee {
+    font-family: cursive;
+    font-size: 30px;
+    color: darkorchid;
+}
+
 #piss {
     color: yellow;
 }

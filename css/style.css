@@ -9,6 +9,10 @@ body {
     background-size: cover;
 }
 
+p {
+    font-size: 140%;
+}
+
 marquee {
     font-family: cursive;
     font-size: 60px;
@@ -24,7 +28,8 @@ marquee {
     margin: 0; /* Disables browser default margins */
     padding: 0; /* Disables browser default padding */
     overflow: hidden; /* Hides cutoff content */
-    background-color: grey; /* Sets background color of the navbar */
+    background-color: #333; /* Sets background color of the navbar */
+    color: #eee
 }
 
 #navbar li { /* Themes list items in navbar */

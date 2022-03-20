@@ -48,6 +48,11 @@ marquee {
     background-color: #111;
 }
 
+iframe {
+    border: 5px darkslateblue;
+    
+}
+
 /* Example ID Style */
 #idName {
     /* Code here */

@@ -1,0 +1,23 @@
+h1 
+{
+    text-align: center;
+}
+
+body {
+    font-family:courier, serif;
+    background-image: url("../img/wallpaper.jpg");
+}
+
+#piss {
+    color: yellow;
+}
+
+/* Example ID Style */
+#idName {
+    /* Code here */
+}
+
+/* Example Class Style */
+.className {
+    /* Code here */
+}

@@ -28,8 +28,7 @@ marquee {
     margin: 0; /* Disables browser default margins */
     padding: 0; /* Disables browser default padding */
     overflow: hidden; /* Hides cutoff content */
-    background-color: #333; /* Sets background color of the navbar */
-    color: #eee
+    background-color: #252525; /* Sets background color of the navbar */
 }
 
 #navbar li { /* Themes list items in navbar */
@@ -38,10 +37,11 @@ marquee {
 
 #navbar li a { /* Themes text of list items in navbar */
     display: block; /* Displays the list items side-by-side */
-    color: black; /* Sets font color */
+    color: #efefef; /* Sets font color */
     text-align: center; /* Aligns text to center of box */
     padding: 14px 16px; /* Sets padding around text */
     text-decoration: none; /* Disables inherited text decorations */
+    font-size: 130%;
 }
 
 /* Example ID Style */

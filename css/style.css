@@ -48,6 +48,10 @@ marquee {
     background-color: #111;
 }
 
+.active {
+    
+}
+
 iframe {
     border: 5px darkslateblue;
     

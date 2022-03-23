@@ -24,6 +24,8 @@ marquee {
 }
 
 #navbar ul { /* Themes navbar itself */
+    border: 2px solid #252525;
+    border-radius: 5px;
     list-style-type: none; /* Disables bullet points at the start of ul */
     margin: 0; /* Disables browser default margins */
     padding: 0; /* Disables browser default padding */
@@ -39,7 +41,7 @@ marquee {
     display: block; /* Displays the list items side-by-side */
     color: #efefef; /* Sets font color */
     text-align: center; /* Aligns text to center of box */
-    padding: 14px; /* Sets padding around text */
+    padding: 12px; /* Sets padding around text */
     text-decoration: none; /* Disables inherited text decorations */
     font-size: 130%;
 }

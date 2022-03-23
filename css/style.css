@@ -56,6 +56,9 @@ iframe {
     border: 5px darkslateblue;
     
 }
+#map {
+    vertical-align: middle;
+}
 
 /* Example ID Style 
 #idName {

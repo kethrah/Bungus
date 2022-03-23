@@ -56,8 +56,9 @@ iframe {
     border: 5px darkslateblue;
     
 }
-#map {
-    vertical-align: middle;
+.mapD {
+    text-align: middle;
+    border:5px solid black;
 }
 
 /* Example ID Style 

@@ -58,12 +58,7 @@ iframe {
     border: 5px darkslateblue;
     
 }
-#map {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border:5px solid black;
-}
+
 .Character {
     border: 3px solid goldenrod;
     width: 48%;

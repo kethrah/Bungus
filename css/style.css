@@ -59,8 +59,8 @@ iframe {
 
 #character {
     border: 3px solid goldenrod;
-    width: auto;
-    height: 80vh;
+    width: 48vw;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
 }

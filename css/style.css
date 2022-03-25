@@ -11,7 +11,7 @@ body {
 }
 
 p {
-    font-size: 140%;
+    font-size: 125%;
 }
 
 marquee {
@@ -50,7 +50,7 @@ marquee {
     text-align: center; /* Aligns text to center of box */
     padding: 12px; /* Sets padding around text */
     text-decoration: none; /* Disables inherited text decorations */
-    font-size: 130%;
+    font-size: 110%;
 }
 
 #navbar li a:hover {

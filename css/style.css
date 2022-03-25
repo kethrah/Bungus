@@ -64,6 +64,11 @@ iframe {
     margin-right: auto;
     border:5px solid black;
 }
+.Character {
+    border: 3px solid goldenrod;
+    width: 40%;
+    height: 40%;
+}
 
 /* Example ID Style 
 #idName {

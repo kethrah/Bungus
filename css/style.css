@@ -24,8 +24,7 @@ marquee {
 }
 
 #navbar ul { /* Themes navbar itself */
-    border: 2px solid #252525;
-    border-radius: 5px;
+    border-radius: 5px; /* Rounds navbar corners */
     list-style-type: none; /* Disables bullet points at the start of ul */
     margin: 0; /* Disables browser default margins */
     padding: 0; /* Disables browser default padding */
@@ -56,13 +55,12 @@ marquee {
 
 iframe {
     border: 5px darkslateblue;
-    
 }
 
-.Character {
+#character {
     border: 3px solid goldenrod;
-    width: 48%;
-    height: 48%;
+    width: auto;
+    height: 80vh;
     margin-left: auto;
     margin-right: auto;
 }

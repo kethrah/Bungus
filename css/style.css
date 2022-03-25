@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap'); /* Imports a web-friendly variant of the Courier font */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap'); /* Imports a web-friendly variant of the Courier font */
 
 h1 {
     text-align: center;
 }
 
 body {
-    font-family: "Courier Prime", serif;
+    font-family: "Noto Serif", serif;
     background-image: url("../img/wallpaper.png");
     background-size: cover;
 }

@@ -68,6 +68,8 @@ iframe {
     border: 3px solid goldenrod;
     width: 48%;
     height: 48%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Example ID Style 

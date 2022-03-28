@@ -31,6 +31,11 @@ marquee {
     margin: auto; /* Centers the images */
 }
 
+#character:nth-child(odd) {
+    margin-right: auto;
+    text-align: right;
+}
+
 #navbar ul { /* Themes navbar itself */
     border-radius: 5px; /* Rounds navbar corners */
     list-style-type: none; /* Disables bullet points at the start of ul */

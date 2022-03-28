@@ -30,10 +30,11 @@ marquee {
     height: auto; /* Automatically adjusts image height based on the width to keep original aspect ratio */
     margin: auto; /* Centers the images */
     display: block;
+    padding-bottom: 1vh;
     float: left;
 }
 
-#character:nth-child(odd) {
+#character:nth-child(even) {
     float: right;
 }
 

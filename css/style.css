@@ -25,8 +25,8 @@ marquee {
 }
 
 #character {
-    border: 0.25vw solid goldenrod;
-    width: 48vw; /* Sets the image width to just under half of the screen width, allowing 2 images to fit next to each other perfectly */
+    border: 3px solid goldenrod;
+    width: 48%; /* Sets the image width to just under half of the screen width, allowing 2 images to fit next to each other perfectly */
     height: auto; /* Automatically adjusts image height based on the width to keep original aspect ratio */
     margin: auto; /* Centers the images */
     margin-bottom: 1vh;
